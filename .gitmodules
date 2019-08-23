@@ -1,0 +1,3 @@
+[submodule "unpublished-blogposts"]
+	path = unpublished-blogposts
+	url = https://github.com/nickstaggs/unpublished-blogposts.git
